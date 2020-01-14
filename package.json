@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-contest",
+  "description": "100 Days Of Gatsby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alexeiaccio/gatsby-contest.git",
+  "author": "Alexei Accio <alexei.accio@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["gatsby-theme-slate", "site"]
+}
