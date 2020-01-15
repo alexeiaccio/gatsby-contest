@@ -7,5 +7,7 @@
   "author": "Alexei Accio <alexei.accio@gmail.com>",
   "license": "MIT",
   "private": true,
-  "workspaces": ["gatsby-theme-slate", "site"]
+  "workspaces": [
+    "packages/*"
+  ]
 }

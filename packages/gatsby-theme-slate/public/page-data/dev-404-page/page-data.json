@@ -1,0 +1,10 @@
+{
+  "componentChunkName": "component---cache-dev-404-page-js",
+  "path": "/dev-404-page/",
+  "result": {
+    "data": {
+      "allSitePage": { "nodes": [{ "path": "/admin" }, { "path": "/default" }] }
+    },
+    "pageContext": {}
+  }
+}

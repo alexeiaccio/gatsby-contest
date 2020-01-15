@@ -1,0 +1,14 @@
+{
+  "componentChunkName": "component---src-templates-page-tsx",
+  "path": "/admin/default",
+  "result": {
+    "data": {
+      "slatePage": {
+        "name": "Default",
+        "data": "There is nothing yet...",
+        "slug": "/admin/default"
+      }
+    },
+    "pageContext": { "pageID": "700cf3a9-c88c-596b-861d-178f561e2012" }
+  }
+}
